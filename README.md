@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python for Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on any Python Project
-- 📫 How to reach me: ibehhenrie@gmail.com
+- 📫 Reach me by email: ibehhenrie@gmail.com
 
 <!---
 henrie-ibeh/henrie-ibeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
