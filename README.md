@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henrie-ibeh
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python for Data Science and Machine Learning
+- 🌱 I’m currently a Python Data Scientist
 - 💞️ I’m looking to collaborate on any Python Project
 - 📫 Reach me by email: ibehhenrie@gmail.com
 
